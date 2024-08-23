@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66c58a62-d587-4c5b-a6c6-518adc3648fb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2022.1/remote_sources/1004794330/1226853544/torch/nn/modules/module.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2022.1/remote_sources/1004794330/1226853544/ttach/base.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2022.1/remote_sources/1004794330/1226853544/ttach/wrappers.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/config/vaihingen/trans.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/geoseg/datasets/vaihingen_dataset.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/geoseg/models/UCTransNet.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/train_new.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/train_supervision.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/vaihingen_test.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LlUsxPaIoJRnqMB5mqFIYTG5so" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "credentialsType com.jetbrains.python.remote.PyCreateRemoteInterpreterDialog$PyCreateRemoteSdkForm": "Web Deployment",
+    "last_opened_file_path": "F:/git/NewNet",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\home\caoyiwen\slns\NewNet\backbones" />
+      <recent name="D:\home\caoyiwen\slns\NewNet\geoseg\models" />
+      <recent name="D:\home\caoyiwen\slns\NewNet\config\vaihingen" />
+      <recent name="D:\home\caoyiwen\slns\NewNet\config\potsdam" />
+      <recent name="D:\home\caoyiwen\slns\NewNet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\home\caoyiwen\slns\NewNet\geoseg\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.scatter">
+    <configuration name="cyh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cyh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scatter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\software\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="E:/prcv/图" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/prcv/图/scatter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scatter1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\software\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="E:/prcv/图" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/prcv/图/scatter1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\software\Anaconda3\envs\test\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_supervision" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://caoyiwen@172.16.170.134:22/home/caoyiwen/anaconda3/envs/airs/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_supervision.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.scatter1" />
+      <item itemvalue="Python.scatter" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.cyh" />
+      <item itemvalue="Python.train_supervision" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scatter" />
+        <item itemvalue="Python.scatter1" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.cyh" />
+        <item itemvalue="Python.train_supervision" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66c58a62-d587-4c5b-a6c6-518adc3648fb" name="Changes" comment="" />
+      <created>1676445373077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676445373077</updated>
+      <workItem from="1676445374319" duration="121000" />
+      <workItem from="1676445504256" duration="2859000" />
+      <workItem from="1676461946106" duration="197455000" />
+      <workItem from="1678027085241" duration="203330000" />
+      <workItem from="1679192242569" duration="42233000" />
+      <workItem from="1679644848028" duration="8051000" />
+      <workItem from="1679748246831" duration="3699000" />
+      <workItem from="1679818152199" duration="3525000" />
+      <workItem from="1679993810206" duration="2316000" />
+      <workItem from="1680012728049" duration="517000" />
+      <workItem from="1680055895082" duration="2658000" />
+      <workItem from="1680093705438" duration="1907000" />
+      <workItem from="1680178558726" duration="7328000" />
+      <workItem from="1680449001618" duration="4061000" />
+      <workItem from="1680503929091" duration="88907000" />
+      <workItem from="1681736456277" duration="542000" />
+      <workItem from="1681737041667" duration="648000" />
+      <workItem from="1681737830188" duration="95491000" />
+      <workItem from="1682130746166" duration="72967000" />
+      <workItem from="1682490901313" duration="54838000" />
+      <workItem from="1683270243602" duration="9858000" />
+      <workItem from="1683447553673" duration="3623000" />
+      <workItem from="1683599974948" duration="37261000" />
+      <workItem from="1683772779087" duration="100746000" />
+      <workItem from="1685692800647" duration="100731000" />
+      <workItem from="1686813371873" duration="55453000" />
+      <workItem from="1687420566616" duration="16462000" />
+      <workItem from="1688050940342" duration="22752000" />
+      <workItem from="1688387034167" duration="112000" />
+      <workItem from="1688958567438" duration="1190000" />
+      <workItem from="1689063075058" duration="3708000" />
+      <workItem from="1689386488277" duration="1802000" />
+      <workItem from="1689694362208" duration="4849000" />
+      <workItem from="1690385174183" duration="961000" />
+      <workItem from="1690616499010" duration="102000" />
+      <workItem from="1690624045057" duration="5033000" />
+      <workItem from="1691050575006" duration="426000" />
+      <workItem from="1691414705184" duration="3384000" />
+      <workItem from="1691643028422" duration="3376000" />
+      <workItem from="1691770356853" duration="10414000" />
+      <workItem from="1692693835599" duration="7950000" />
+      <workItem from="1693555773100" duration="1198000" />
+      <workItem from="1694012397710" duration="1533000" />
+      <workItem from="1694160820339" duration="2236000" />
+      <workItem from="1694659635808" duration="3258000" />
+      <workItem from="1694831343871" duration="4397000" />
+      <workItem from="1694924471580" duration="28787000" />
+      <workItem from="1695737451658" duration="1131000" />
+      <workItem from="1696434627910" duration="4251000" />
+      <workItem from="1697373535379" duration="2601000" />
+      <workItem from="1697513129864" duration="84000" />
+      <workItem from="1698911055570" duration="278000" />
+      <workItem from="1698911356619" duration="1815000" />
+      <workItem from="1700575557230" duration="1685000" />
+      <workItem from="1701422370328" duration="2863000" />
+      <workItem from="1701438760730" duration="266000" />
+      <workItem from="1701440016919" duration="616000" />
+      <workItem from="1703040248721" duration="1551000" />
+      <workItem from="1703667658032" duration="2417000" />
+      <workItem from="1704355442186" duration="1589000" />
+      <workItem from="1709302213224" duration="3550000" />
+      <workItem from="1710222972930" duration="966000" />
+      <workItem from="1710230186229" duration="40880000" />
+      <workItem from="1710479943081" duration="26122000" />
+      <workItem from="1710570093939" duration="4668000" />
+      <workItem from="1710576422678" duration="6866000" />
+      <workItem from="1710583336486" duration="78181000" />
+      <workItem from="1711351974689" duration="25885000" />
+      <workItem from="1711637715342" duration="12125000" />
+      <workItem from="1711706710675" duration="243000" />
+      <workItem from="1711717000839" duration="50690000" />
+      <workItem from="1713367373714" duration="420000" />
+      <workItem from="1713370598049" duration="973000" />
+      <workItem from="1713372230414" duration="7081000" />
+      <workItem from="1716202888046" duration="4377000" />
+      <workItem from="1717050764719" duration="5417000" />
+      <workItem from="1717083692847" duration="1895000" />
+      <workItem from="1719898751889" duration="21000" />
+      <workItem from="1720083724039" duration="1493000" />
+      <workItem from="1720090670331" duration="4914000" />
+      <workItem from="1720360264356" duration="2396000" />
+      <workItem from="1722078020573" duration="1665000" />
+      <workItem from="1724400755666" duration="353000" />
+      <workItem from="1724401440363" duration="511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/models/FCNPlain.py</url>
+          <line>293</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/models/BESASF1.py</url>
+          <line>358</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/losses/bes_loss.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/losses/bes_loss.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/losses/bes_loss.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/losses/bes_loss.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/losses/bes_loss.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/losses/bes_loss.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/losses/bes_loss.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/models/BESASF3.py</url>
+          <line>360</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/models/BASeg.py</url>
+          <line>322</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/models/BASeg.py</url>
+          <line>452</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/models/BASeg1.py</url>
+          <line>392</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/models/BASeg1.py</url>
+          <line>406</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geoseg/models/BASeg1.py</url>
+          <line>398</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NewNet$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1678846598449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/NewNet$cyh2.coverage" NAME="cyh2 Coverage Results" MODIFIED="1703684480961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewNet$cyh.coverage" NAME="cyh Coverage Results" MODIFIED="1712649326376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewNet$scatter.coverage" NAME="scatter Coverage Results" MODIFIED="1717055756815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/prcv/图" />
+    <SUITE FILE_PATH="coverage/NewNet$train_abc.coverage" NAME="train_abc Coverage Results" MODIFIED="1710509255640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewNet$.coverage" NAME="双重循环的字典序 Coverage Results" MODIFIED="1678599923961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/NewNet$test.coverage" NAME="test Coverage Results" MODIFIED="1713367769899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewNet$latex.coverage" NAME="latex Coverage Results" MODIFIED="1686924673663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/NewNet$train_be.coverage" NAME="train_be Coverage Results" MODIFIED="1711728318495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewNet$vaihingen_test.coverage" NAME="vaihingen_test Coverage Results" MODIFIED="1695199419441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewNet$plot.coverage" NAME="plot Coverage Results" MODIFIED="1688050993286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/NewNet$train_f.coverage" NAME="train_f Coverage Results" MODIFIED="1691659679082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewNet$resnet_new.coverage" NAME="resnet_new Coverage Results" MODIFIED="1677659503304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backbones" />
+    <SUITE FILE_PATH="coverage/NewNet$v2.coverage" NAME="参考解法v2 Coverage Results" MODIFIED="1678764852954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/NewNet$train_supervision.coverage" NAME="train_supervision Coverage Results" MODIFIED="1712051183230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewNet$active.coverage" NAME="active Coverage Results" MODIFIED="1709738478858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewNet$scatter1.coverage" NAME="scatter1 Coverage Results" MODIFIED="1717054952889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/prcv/图" />
+    <SUITE FILE_PATH="coverage/NewNet$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1678764573441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/NewNet$TMANPSPUnet2.coverage" NAME="TMANPSPUnet2 Coverage Results" MODIFIED="1694924499539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geoseg/models" />
+    <SUITE FILE_PATH="coverage/NewNet$train_new.coverage" NAME="train_new Coverage Results" MODIFIED="1710344186276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
