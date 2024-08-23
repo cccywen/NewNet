@@ -1,13 +1,17 @@
+
+
 ## Introduction
 
-based on PyTorch, [pytorch lightning](https://www.pytorchlightning.ai/) and [timm](https://github.com/rwightman/pytorch-image-models), 
-mainly focuses on remote sensing image segmentation.
+**GeoSeg** is an open-source  semantic segmentation toolbox based on PyTorch, [pytorch lightning](https://www.pytorchlightning.ai/) and [timm](https://github.com/rwightman/pytorch-image-models), 
+which mainly focuses on remote sensing image segmentation.
+
 
   
 ## Folder Structure
 
 Prepare the following folders to organize this repo:
-
+```none
+airs
 ├── GeoSeg (code)
 ├── pretrain_weights (save the pretrained weights like vit, swin, etc)
 ├── model_weights (save the model weights)
